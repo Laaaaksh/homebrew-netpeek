@@ -4,10 +4,10 @@ cask "netpeek" do
   version "0.1.0"
   sha256 "4d7a7a330f7d3fbc50f9df5365589604b1c04a45699e302818f4191ebbbf2617"
 
-  url "https://github.com/attentionfs/netpeek/releases/download/v#{version}/Netpeek-#{version}-macos-universal.zip"
+  url "https://github.com/Laaaaksh/netpeek/releases/download/v#{version}/Netpeek-#{version}-macos-universal.zip"
   name "Netpeek"
   desc "Live per-process bandwidth monitor"
-  homepage "https://github.com/attentionfs/netpeek"
+  homepage "https://github.com/Laaaaksh/netpeek"
 
   depends_on macos: :monterey
 

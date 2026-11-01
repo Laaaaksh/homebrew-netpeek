@@ -1,11 +1,11 @@
 # homebrew-netpeek
 
-Homebrew tap for [Netpeek](https://github.com/attentionfs/netpeek).
+Homebrew tap for [Netpeek](https://github.com/Laaaaksh/netpeek).
 
 ## Install
 
 ```sh
-brew tap attentionfs/netpeek
+brew tap Laaaaksh/netpeek
 brew install --cask netpeek
 ```
 
